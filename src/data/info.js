@@ -7,7 +7,7 @@ export let navbar = {
 }
 
 export let header = {
-    title: 'One Page Wonder',
+    title: 'One Page Wonder 4Geeks',
     subtitle: 'Will Rock Your Socks Off',
     button: {
         link: '#scroll',
